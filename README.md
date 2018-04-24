@@ -61,5 +61,8 @@ abcdef
 # Reference (Japanese)
 - [JAN/EAN/UPC | バーコード講座 | キーエンス](https://www.keyence.co.jp/ss/products/autoid/codereader/basic_jan.jsp)
 
+# TODO (I WANT)
+- Rewrite with React
+
 # LICENSE
 - [MIT LICENSE](/LICENSE)
