@@ -62,4 +62,4 @@ abcdef
 - [JAN/EAN/UPC | バーコード講座 | キーエンス](https://www.keyence.co.jp/ss/products/autoid/codereader/basic_jan.jsp)
 
 # LICENSE
-[MIT LICENSE](/LICENSE)
+- [MIT LICENSE](/LICENSE)
