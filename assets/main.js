@@ -10,8 +10,9 @@ function showResult() {
 }
 
 function extractTargetNumberArray(text) {
-  let pattern = /\d{13}/g;
+  let pattern = /\d+/g;
   let result = text.match(pattern);
+
   return result;
 }
 
